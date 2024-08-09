@@ -10,11 +10,13 @@ framework alongside the **Node.js** environment. **Final Grade: 17/20**
 Developing an e-Auction system utilizing data abstraction in the **Java** language.
 **Final Grade: 18/20**
 <br>
+<br>
 [Git Repository here](https://github.com/gmbdealmeida/pco)
 
 ### OPERATING SYSTEMS PROJECT
 Developing a synchronous file reader utilizing the processes and thread functions
 within the **Python** language. **Final Grade: 18/20**
+<br>
 <br>
 [Git Repository here](https://github.com/gmbdealmeida/so)
 
