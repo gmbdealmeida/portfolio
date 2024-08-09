@@ -23,6 +23,8 @@ within the **Python** language. **Final Grade: 18/20**
 ### INFORMATION SECURITY PROJECT
 Developing a secure hospital software system utilizing the cryptography and
 firewall functions within the **Java** language. **Final Grade: 17/20**
+<br>
+<br>
 [Git Repository here](https://github.com/gmbdealmeida/sinf)
 
 ### INTRODUCTION TO WEB TECHNOLOGIES PROJECT
