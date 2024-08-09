@@ -1,4 +1,4 @@
-# Welcome to my portfolio
+# Welcome to my portfolio!
 Here you can see the magic I do.
 
 ## ACADEMIC PROJECTS
