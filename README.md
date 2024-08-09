@@ -11,7 +11,6 @@ Developing an e-Auction system utilizing data abstraction in the **Java** langua
 **Final Grade: 18/20**
 <br>
 [Git Repository here](https://github.com/gmbdealmeida/pco)
-</br>
 
 ### OPERATING SYSTEMS PROJECT
 Developing a synchronous file reader utilizing the processes and thread functions
