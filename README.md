@@ -15,6 +15,7 @@ Developing an e-Auction system utilizing data abstraction in the **Java** langua
 ### OPERATING SYSTEMS PROJECT
 Developing a synchronous file reader utilizing the processes and thread functions
 within the **Python** language. **Final Grade: 18/20**
+<br>
 [Git Repository here](https://github.com/gmbdealmeida/so)
 
 ### INFORMATION SECURITY PROJECT
