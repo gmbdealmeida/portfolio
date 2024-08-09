@@ -1,4 +1,4 @@
-# WELCOME TO MY PORTFOLIO!
+# Welcome to my portfolio
 Here you can see the magic I do.
 
 ## ACADEMIC PROJECTS
@@ -39,4 +39,4 @@ Developing a utility service system utilizing the **Python** language. **Final G
 <br>
 [Git Repository here](https://github.com/gmbdealmeida/progi_and_progii)
 
-## STAY TUNED FOR MORE
+## Stay tuned for more...
