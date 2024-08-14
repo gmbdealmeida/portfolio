@@ -5,9 +5,10 @@ Here you can see the magic I do.
 ### INFORMATION AND NETWORK TECHNOLOGIES PROJECT
 Developing a student accommodation platform utilizing the **React.js** 
 framework alongside the **Node.js** environment. **Final Grade: 17/20**
+<br>
+<br>
 [Git Repository here](https://github.com/gmbdealmeida/ptr_pti)
-<br>
-<br>
+
 ### OBJECT ORIENTED PROGRAMMING PROJECT
 Developing an e-Auction system utilizing data abstraction in the **Java** language.
 **Final Grade: 18/20**
