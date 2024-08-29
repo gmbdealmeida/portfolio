@@ -6,7 +6,7 @@ Here you can see the magic I do.
 Developing a utility service system utilizing the **Python** language. **Final Grade: 19/20**
 <br>
 <br>
-[Git Repository here](https://github.com/gmbdealmeida/progi_and_progii)
+[Git Repository here](https://github.com/gmbdealmeida/prog_i_and_ii)
 
 ### INTRODUCTION TO WEB TECHNOLOGIES PROJECT
 Developing a computer game utilizing **Javascript**, **HTML** and **CSS**. **Final Grade: 18/20**
